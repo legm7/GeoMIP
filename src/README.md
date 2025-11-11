@@ -1,0 +1,1 @@
+Código fuente dos estrategias 
