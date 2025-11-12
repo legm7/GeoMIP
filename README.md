@@ -1,4 +1,5 @@
-Repositorio estrategia GeoMIP
+**Repositorio estrategia GeoMIP**  
+
 En la carpeta **/data** se encuentran los archivos correspondientes a redes de diferentes tamaños.  
 
 Para las redes de mas de 15 nodos se usa el aplicativo creation.py  para generarlas.  
