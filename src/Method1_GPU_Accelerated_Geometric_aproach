@@ -1,0 +1,1 @@
+This implementation stands out for the algorithm's capability to directly evaluate the quality of different partitions through transition cost analysis between states, without the need to completely reconstruct the system dynamics.
