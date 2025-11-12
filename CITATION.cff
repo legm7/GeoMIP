@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "GeoMIP: A Geometric-Topological and Dynamic Programming Framework for Enhanced Computational Tractability of Minimum Information Partition in Integrated Information Theory"
+authors:
+  - family-names: Guerrero
+    given-names: Luz Enith
+    affiliation: Universidad de Caldas- Universidad Nacional de Colombia
+
+ - family-names: Arango
+   given-names: Jeferson
+  affiliation: Universidad de Caldas
+version: "1.0.0"
+date-released: "2025-11-12"
+repository-code: "https://github.com/legm7/GeoMIP"
+keywords:
+  - Integrated Information Theory
+  - MIP
+  - Submodularity
+  - Earth Mover's Distance
+  - Algorithms
+  - Computational Neuroscience
+license: "MIT"
+type: software
+
+preferred-citation:
+  type: article
+  title: "GeoMIP: A Geometric-Topological and Dynamic Programming Framework for Enhanced Computational Tractability of Minimum Information Partition in Integrated Information Theory"
+  authors:
+    - family-names: Guerrero
+      given-names: L. E.
+    - family-names: Arango
+       given-names: J.
+  year: 2025
