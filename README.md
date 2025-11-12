@@ -1,5 +1,7 @@
 **Repositorio estrategia GeoMIP**  
 
+Este repositorio contiene las implementaciones originales de los métodos asociados  con el artículo  "GeoMIP: A Geometric-Topological and Dynamic Programming Framework for Enhanced Computational Tractability of Minimum Information Partition in Integrated Information Theory"
+
 En la carpeta **/data** se encuentran los archivos correspondientes a redes de diferentes tamaños.  
 
 Para las redes de mas de 15 nodos se usa el aplicativo creation.py  para generarlas.  
