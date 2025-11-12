@@ -1,0 +1,12 @@
+1. Overview
+
+This dataset accompanies the GeoMIP (Geometric Approach to the Minimum Information Partition Problem) project and contains all data used to validate the algorithms described in the manuscript.
+The data include transition probability matrices (TPMs) generated for different networks and experimental results comparing three reference strategies:
+
+PyPhi (theoretical reference implementation),
+
+Strategy Q (used as reference when PyPhi values are not available), and
+
+GeoMIP (Geometric strategy, proposed in this study), which includes Method 1 and Method 2 variants.
+
+All datasets are provided to ensure full transparency and reproducibility of the reported results.
